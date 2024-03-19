@@ -1,0 +1,56 @@
+#header{
+    background-image: url(images/blur.jpg);
+    color: white;
+
+}
+#home{
+    display: flex;
+    gap: 5%;
+}
+#text{
+    display: flex;
+    gap: 30%;
+}
+#joy{
+    display: flex;
+    gap: 10%;
+}
+#chair{
+    text-align: center;
+    font-size: 200%;
+}
+#material{
+    font-size: xx-large;
+}
+#mom{
+    display: flex;
+    margin-left: 5%;
+    align-items: center;
+}
+#dad{
+    margin-left: 20%;
+    display: flex;
+    
+}
+#b{
+    display: flex;
+    gap: 30%;
+    
+}
+#w{
+    align-items: center;
+    margin-left: 35%;
+}
+#so{
+    display: flex;
+    gap: 10%;
+}
+#y{
+    display: flex;
+    gap: 10%;
+    background-image: url(images/goal.jpeg);
+}
+#end{
+    display: flex;
+    gap: 10%;
+}
